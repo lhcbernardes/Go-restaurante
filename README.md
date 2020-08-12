@@ -1,24 +1,3 @@
-<h1 align="center">
-  <img alt="GoRestaurant" title="GoRestaurant" src="assets/img/logo.png" width="300px" />
-</h1>
-
-
-<p align="center">
-  <a href="#information_source-how-to-use">ℹ️ How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">🚀 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  GoRestaurant is a project developed in React Native and TypeScript as a challenge in Rocketseat's GoStack 11 Bootcamp.
-</p>
-
----
-
-<h1 align="center">
-  <img alt="Demonstration1" style="margin: 2px" title="Demonstration1" src="assets/img/1.gif" width="300px" />
-
-  <img alt="Demonstration2" style="margin: 2px" title="Demonstration2" src="assets/img/2.gif" width="300px" />
-</h1>
 
 # :information_source: How To Use
 
